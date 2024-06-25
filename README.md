@@ -1,15 +1,31 @@
 # Hi there! I'm Heriberto Santana Solsona 👋
 
 ## About Me
-I'm currently enrolled in a fullstack web development course that concludes in December 2024. As part of the course, I am beginning to study React and enhancing my skills across various technologies. I am passionate about developing efficient and scalable web applications and continually learning and improving my skills.
+I'm currently enrolled in a fullstack web development course that concludes in December 2024. I am passionate about developing efficient and scalable web applications and continually learning and improving my skills.
 
-I’m interested in creating innovative web applications, learning about new technologies, and collaborating on open-source projects. I am particularly fascinated by the potential of AI and machine learning in web development and hope to explore these areas in the future.
 
 ## Skills
-- **Languages**: JavaScript, HTML, CSS, Python, SQL
-- **Frameworks and Libraries**: React, Node.js, Express, Bootstrap, Django
-- **Tools and Platforms**: Git, GitHub, Docker, Heroku, Netlify, VS Code
-- **Databases**: MongoDB, MySQL, PostgreSQL
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Frameworks and Libraries
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+
+### Tools and Platforms
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 ## Projects
 
