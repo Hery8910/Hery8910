@@ -1,10 +1,12 @@
-# Hi there! I'm Heriberto Santana Solsona 👋
+# Hi there! 👋
+## I'm Heriberto Santana Solsona 
 
 ## About Me
 I'm currently enrolled in a fullstack web development course that concludes in December 2024. I am passionate about developing efficient and scalable web applications and continually learning and improving my skills.
 
 
 ## Skills
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
