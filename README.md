@@ -21,8 +21,6 @@ I'm currently enrolled in a fullstack web development course that concludes in D
 ### Tools and Platforms
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 
 ### Databases
