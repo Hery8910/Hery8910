@@ -33,7 +33,7 @@ I'm currently enrolled in a fullstack web development course that concludes in D
 ## Contact
 - **Email**: [heriberto.santana@dci-student.org](mailto:heriberto.santana@dci-student.org)
 - **LinkedIn**: [linkedin.com/in/heriberto-santana-solsona](https://www.linkedin.com/in/heriberto-santana-solsona-7366342b2/)
-- **Portfolio**: (hery8910.github.io/Portfolio/)
+- **Portfolio**: (https://www.hery8910.github.io/Portfolio/)
 
 ---
 
