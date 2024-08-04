@@ -7,23 +7,17 @@ I'm currently enrolled in a fullstack web development course that concludes in D
 
 ## Skills
 
-### Languages
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### Frameworks and Libraries
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-
-### Tools and Platforms
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
-
-### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
