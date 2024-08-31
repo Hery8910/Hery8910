@@ -4,9 +4,9 @@
 ## About Me
 I'm currently enrolled in a fullstack web development course that concludes in December 2024. I am passionate about developing efficient and scalable web applications and continually learning and improving my skills.
 
+I have experience with a wide range of technologies and frameworks, which I've applied to various projects throughout my course. My goal is to create user-friendly, responsive, and dynamic web applications. Below are some of the key technologies I have worked with.
 
 ## Skills
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
@@ -20,18 +20,26 @@ I'm currently enrolled in a fullstack web development course that concludes in D
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![JSON Web Tokens](https://img.shields.io/badge/-JWT-000?&logo=JSON%20Web%20Tokens)
 
 ## Projects
 
+*(Here you can list some of your notable projects, providing a brief description and links to the repositories or live demos.)*
 
 ## Contact
 - **Email**: [heriberto.santana@dci-student.org](mailto:heriberto.santana@dci-student.org)
 - **LinkedIn**: [linkedin.com/in/heriberto-santana-solsona](https://www.linkedin.com/in/heriberto-santana-solsona-7366342b2/)
-- **Portfolio**: [(https://www.hery8910.github.io/Portfolio/)](https://hery8910.github.io/Portfolio/)
+- **Portfolio**: [https://hery8910.github.io/Portfolio/](https://hery8910.github.io/Portfolio/)
 
 ---
 
 Thanks for visiting my profile! I'm always open to new opportunities and collaborations. Feel free to get in touch with me.
+
 
 
 <!---
