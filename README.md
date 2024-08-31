@@ -29,7 +29,8 @@ I have experience with a wide range of technologies and frameworks, which I've a
 
 ## Projects
 
-*([React Guide](https://github.com/Hery8910/React-Guide))*
+*([React Guide](https://react-guide.onrender.com/))
+*([React Guide on GitHub](https://github.com/Hery8910/React-Guide))
 
 ## Contact
 - **Email**: [heriberto.santana@dci-student.org](mailto:heriberto.santana@dci-student.org)
